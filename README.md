@@ -22,6 +22,3 @@
 * EJS
 * Node.Js
 
-### License - ISC
-
-Copyright (c) 2020-2021
